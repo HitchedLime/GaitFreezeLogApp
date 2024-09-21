@@ -1,0 +1,5 @@
+Experiment 'patient1' started at: 2024-09-21 15:45:43.243906
+Logged timestamp: 2024-09-21 15:45:47.324943
+Logged timestamp: 2024-09-21 15:45:51.191122
+Logged timestamp: 2024-09-21 15:45:52.952088
+Experiment 'patient1' stopped at: 2024-09-21 15:45:54.944751
