@@ -1,1 +1,2 @@
-### Run The app
+### Run 
+just run the main.py 
