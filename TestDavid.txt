@@ -1,0 +1,9 @@
+Experiment 'TestDavid' started at: 2024-09-28 17:24:45.354417
+Start of freeze : 2024-09-28 17:24:46.636464
+Start of freeze : 2024-09-28 17:24:47.670334
+End of freeze log  timestamp: 2024-09-28 17:24:48.388274
+Start of freeze : 2024-09-28 17:24:49.232586
+End of freeze log  timestamp: 2024-09-28 17:24:49.736820
+Start of freeze : 2024-09-28 17:24:50.574554
+Start of freeze : 2024-09-28 17:24:51.929523
+Experiment 'TestDavid' stopped at: 2024-09-28 17:24:53.781940

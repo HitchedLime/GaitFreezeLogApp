@@ -1,0 +1,14 @@
+Experiment 'test' started at: 2024-09-24 14:13:25.378385
+Logged timestamp: 2024-09-24 14:13:26.948208
+Logged timestamp: 2024-09-24 14:13:27.837460
+Logged timestamp: 2024-09-24 14:13:28.389054
+Experiment 'test' stopped at: 2024-09-24 14:13:29.248264
+Experiment 'Test' started at: 2024-09-28 17:24:06.372998
+Start of freeze : 2024-09-28 17:24:08.124402
+Start of freeze : 2024-09-28 17:24:08.812616
+End of freeze log  timestamp: 2024-09-28 17:24:09.530334
+Start of freeze : 2024-09-28 17:24:10.297157
+End of freeze log  timestamp: 2024-09-28 17:24:10.855259
+Start of freeze : 2024-09-28 17:24:11.745747
+End of freeze log  timestamp: 2024-09-28 17:24:12.268732
+Experiment 'Test' stopped at: 2024-09-28 17:24:24.031777
